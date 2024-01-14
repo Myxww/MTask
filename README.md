@@ -45,9 +45,13 @@ Test
 ![Alt text](Img/image12.png)
 
 2. Visual Studio Code / Terminal
+
 git clone https://github.com/Myxww/MTask.git
+
 cd MTask
+
 mvn --version
+
 mvn clean package
 
 The application start on port 8080
