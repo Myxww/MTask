@@ -34,6 +34,16 @@ Select the application -> Run As -> Run on Server -> Select an Server -> Finish
 ![Alt text](Img/image6.png)
 The application start on port 8080
 
+# 1.1 Test
+Test case
+![Alt text](Img/image11.png)
+
+Select the application -> Run As -> JUnit Test
+![Alt text](Img/image10.png)
+
+Test
+![Alt text](Img/image12.png)
+
 2. Visual Studio Code / Terminal
 git clone https://github.com/Myxww/MTask.git
 cd MTask
